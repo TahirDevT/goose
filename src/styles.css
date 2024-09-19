@@ -1,0 +1,39 @@
+* {
+  all: unset;
+}
+
+.greeting {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.positioned-text {
+  font-size: 18px;
+  color: #cccccc;
+}
+
+.group-container {
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.group-item {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.my-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 4px;
+}
+
+.my-button:hover {
+    background-color: #45a049;
+}
