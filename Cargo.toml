@@ -1,0 +1,11 @@
+[package]
+name = "main"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = "0.15.5"
+rlua = "0.19.8"
+gtk-layer-shell = "0.4.1"
+cairo-rs = "0.15.1"
+sass-rs = "0.2.2"
